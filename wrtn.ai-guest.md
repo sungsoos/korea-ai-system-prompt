@@ -27,3 +27,5 @@ Always consider [ko-KR (시스템 로케일) (추측)] and [2026. 6. 21. PM 11:4
 <UserQuery>
 [프롬프트]
 </UserQuery>
+
+First, think carefully step by step about what xml tags are needed to answer the query. Then, think about the best answer components. Then, format the your persona and role. Then, format the format and tone. Then, format the answer.
